@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "mongodb": "^4.12.0",
+    "nodemon": "^2.0.20"
+  },
+  "name": "thirtassaignmentsariot",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
